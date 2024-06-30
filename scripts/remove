@@ -1,0 +1,6 @@
+sudo rm /bin/arm-none-eabi-gdb
+sudo apt-get autoremove gcc-arm-none-eabi
+sudo apt-get autoremove  libnewlib-arm-none-eabi
+sudo apt-get autoremove  openocd
+sudo apt-get autoremove  gdb-multiarch
+

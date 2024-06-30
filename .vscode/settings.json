@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "mdr32fxqi_port.h": "c",
+        "mdr32fxqi_rst_clk.h": "c",
+        "mdr32f9q2i.h": "c",
+        "mdr32f9q2i_it.h": "c",
+        "mdr32fxqi_config.h": "c"
+    }
+}
